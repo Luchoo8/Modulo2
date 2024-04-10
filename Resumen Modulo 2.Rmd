@@ -1,5 +1,5 @@
 ---
-title: Módulo 2
+title: módulo 2
 authors:
   - name: Juan Pablo Siracusa
     department: Department of Industrial Enginnering
